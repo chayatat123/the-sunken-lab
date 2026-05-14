@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: decd283e945fce44a94716e7086f1151
+timeCreated: 1513812472
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101482
+  packageName: Mark 23 (MK23) HD
+  packageVersion: 1.0
+  assetPath: Assets/MK23/Materials/Bullet_in_magazine.mat
+  uploadId: 219950

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2f70a26fc2111c4c9651877653b535d
+timeCreated: 1513812625
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101482
+  packageName: Mark 23 (MK23) HD
+  packageVersion: 1.0
+  assetPath: Assets/MK23/Read_me.txt
+  uploadId: 219950

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a6c551b007bdba74e9a2bd6681eacd65
+timeCreated: 1513812472
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101482
+  packageName: Mark 23 (MK23) HD
+  packageVersion: 1.0
+  assetPath: Assets/MK23/Materials/Main_02.mat
+  uploadId: 219950
